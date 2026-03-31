@@ -9,8 +9,8 @@
     <version>1.0.0</version>
 
     <modules>
-        <module>api-gateway</module>
         <module>config-server</module>
+        <module>api-gateway</module>
         <module>eureka-server</module>
     </modules>
 </project>
