@@ -1,0 +1,10 @@
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/keshan200/scs-config-server.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/keshan200/scs-eureka-server.git
+
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/keshan200/scs-api-gateway.git
